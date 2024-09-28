@@ -1,7 +1,7 @@
 Hotel Booking Program
 
 Overview
-The Hotel Booking Program is a Python application that allows users to search for, book, and manage hotel reservations. It utilizes a MySQL database to store user data, booking information, and hotel details. This program aims to provide a seamless experience for users looking to book hotels online. This is program was made in Coding Competition!
+The Hotel Booking Program is a Python application that allows users to search for, book, and manage hotel reservations. It utilizes CSV files to store user data, booking information, and hotel details. This program aims to provide a seamless experience for users looking to book hotels online. It was created for a coding competition!
 
 Features
 - User registration and authentication
@@ -10,13 +10,12 @@ Features
 - User profile management
 - Admin dashboard for managing hotels and bookings
 - Responsive command-line interface
-
+  
 Technologies Used
 - Python: Main programming language
-- MySQL: Database for storing user and booking information
-
+- CSV: File format for storing user and booking information
+  
 Prerequisites
 Before running the program, ensure you have the following installed:
 - Python 3
-- MySQL Server
 - pip (Python package installer)
